@@ -1,0 +1,19 @@
+{
+    "name": "benitto/crud",
+    "description": "This will create simple crud operation . All the basic things are implemented for you",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "benittoraj",
+            "email": "brendonbeni42@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "Benitto\\Crud\\" : "src/"
+        }
+    }
+}
